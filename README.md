@@ -1,2 +1,31 @@
-# auto_tests_course
-Test Automation with Selenium and Python
+# Test Automation with Selenium and Python
+
+### Lesson1610
+Используем  *assert* для сравнения текста сообщения
+
+### Lesson168
+Используем рандомные буквы для заполнения формы
+
+### Lesson215
+Используем атрибут *text* для возврата текста между тегами
+
+### Lesson217
+Используем *get_attribute* для извлечения значения атрибута
+
+### Lesson226
+Используем *execute_script* для скролла страницы
+
+### Lesson228
+Загружаем файл 
+ 
+### Lesson234
+Закрываем модальное окно с помощью *alert* 
+
+### Lesson236
+Переключаемся на работу в новом окне
+
+### Lesson243
+Используем *implicitly_wait* для неявного ожидания
+
+### Lesson248
+Используем правила модуля *Expected conditions* для необходимых ожиданий
